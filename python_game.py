@@ -1,4 +1,5 @@
-﻿import tkinter
+﻿# Made By Python
+import tkinter
 import math
 import random
 
