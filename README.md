@@ -2,7 +2,7 @@
 this game made by tkinter in Python.
 
 # DEMO
-<img src="samples/demo.gif" alt="PlayImage" title="Demo">
+<img src="samples/demo.gif" alt="PlayImage" title="Demo" width=400 height=400><br />
 figure. Playing Image
  
 # How to Play
